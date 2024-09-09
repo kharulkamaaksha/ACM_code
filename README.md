@@ -2,10 +2,10 @@
 Password manager application
 
 Click on the submitted link, it opens repository named ACM_code, then click on branches, and click on branch named "master"
-Navigate that repository in PC using command prompt, then clone the repository,
-Using cd ACM_code access that file
+Download the .py file
+Using cmd prompt, cd <filepath_of_the_downloaded_file>
 (make sure you have installed cryptography in your system, else type pip.install cryptograhy using cmd prompt)
-Then type : python project.py
+Then type : python <downloaded_file>.py
 or first download it, open it in script mode of python IDLE. Save it and say Fn+F5 to run it.
 1.Run the Script:
   
