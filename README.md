@@ -1,6 +1,8 @@
 # ACM_code
 Password manager application
 
+Click on the submitted link, it opens repository named ACM_code, then click on branches, and click on branch named "master"
+
 1.Run the Script:
   python script_name.py followed by script_name.exe on terminal or open it in script mode of python IDLE. Save it and say Fn+F5 to run it.
   When you execute the script, you will be prompted to enter your master username and password. The master username and password are stored in masterpswd.csv file.
