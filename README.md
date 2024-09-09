@@ -2,9 +2,13 @@
 Password manager application
 
 Click on the submitted link, it opens repository named ACM_code, then click on branches, and click on branch named "master"
-
+Navigate that repository in PC using command prompt, then clone the repository,
+Using cd ACM_code access that file
+(make sure you have installed cryptography in your system, else type pip.install cryptograhy using cmd prompt)
+Then type : python project.py
+or first download it, open it in script mode of python IDLE. Save it and say Fn+F5 to run it.
 1.Run the Script:
-  python script_name.py followed by script_name.exe on terminal or open it in script mode of python IDLE. Save it and say Fn+F5 to run it.
+  
   When you execute the script, you will be prompted to enter your master username and password. The master username and password are stored in masterpswd.csv file.
   If the master username and password don't match then it prompts ACCESS DENIED
 
